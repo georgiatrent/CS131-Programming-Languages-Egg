@@ -1,0 +1,16 @@
+# dune exec HW1
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/georgiat/.cache/dune/db
+# Workspace root: /Users/georgiat/CS131-Programming-Languages-Egg/OCAML/HW1
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/georgiat/.opam/default/bin/ocamlc.opt -config > /var/folders/sm/jjz23fsn2093dl4_g4q3g8mc0000gn/T/dune_2bdb24_output
